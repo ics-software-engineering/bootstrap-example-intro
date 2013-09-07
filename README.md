@@ -12,5 +12,5 @@ have downloaded this as a zip file for use as a template.
 
 Screenshot (theme is "Amelia"):
 
-![screenshot](https://raw.github.com/ics-software-engineering/bootstrap-example-intro/basic/doc/bootswatch-normal.png)
+![screenshot](https://raw.github.com/ics-software-engineering/bootstrap-example-intro/bootswatch/doc/bootswatch-normal.png)
 
