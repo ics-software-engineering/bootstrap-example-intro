@@ -14,6 +14,6 @@ Tablet and above:
 
 Phone:
 
-![screenshot](https://raw.github.com/ics-software-engineering/bootstrap-example-intro/signin/doc/signin-normal.png)
+![screenshot](https://raw.github.com/ics-software-engineering/bootstrap-example-intro/signin/doc/signin-phone.png)
 
 
