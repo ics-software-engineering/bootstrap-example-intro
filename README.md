@@ -1,6 +1,6 @@
 Illustrates the use of [Bootswatch](http://bootswatch.com/) with the most basic bootstrap template containing only two files:
 
-  * index.html contains the page and loads a **Bootswatch* theme file (and other files) from CDNs.
+  * index.html contains the page and loads a Bootswatch theme file (and other files) from CDNs.
   * style.css provides site-specific customizations.
 
 The .project file provides an Eclipse project definition.
