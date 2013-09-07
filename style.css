@@ -1,8 +1,8 @@
 body {
-  padding-top: 50px;  /* Move body below navbar. */
+  padding-top: 50px;  /* Move body of page below navbar. */
 }
 
-.starter-template {
+.page-content {
   padding: 40px 15px;
   text-align: center;
 }
