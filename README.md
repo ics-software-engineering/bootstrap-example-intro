@@ -1,20 +1,16 @@
-Illustrates the most basic bootstrap template containing only two files:
+Illustrates a simple three section home page.
 
   * index.html contains the page and loads bootstrap files from CDNs.
   * style.css provides site-specific customizations.
 
 The .project file provides an Eclipse project definition.
   
-The page itself provides a responsive navbar with a small amount of body text.
+The page itself provides a navbar, a header element, three column middle section, and a footer.
 
 README.md and the doc/ directory are for github documentation; you can delete them if you
 have downloaded this as a zip file for use as a template.
 
-Normal laptop layout:
 
-![screenshot](https://raw.github.com/ics-software-engineering/bootstrap-example-intro/basic/doc/basic-normal.png)
+![screenshot](https://raw.github.com/ics-software-engineering/bootstrap-example-intro/thesesareus/doc/home-page.png)
 
 
-Mobile layout:
-
-![screenshot](https://raw.github.com/ics-software-engineering/bootstrap-example-intro/basic/doc/basic-small.png)
