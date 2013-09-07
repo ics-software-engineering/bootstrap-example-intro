@@ -1,0 +1,8 @@
+body {
+  padding-top: 50px;  /* Move body below navbar. */
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
