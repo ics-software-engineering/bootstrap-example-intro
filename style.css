@@ -6,6 +6,7 @@ body {
 .section-1 {
   color: gold;
   background: url('thesesareus.jpg');
+  background-size: cover;
   padding: 100px;
 }
 
