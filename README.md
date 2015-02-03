@@ -2,8 +2,6 @@ Illustrates the most basic bootstrap template containing only two files:
 
   * index.html contains the page and loads bootstrap files from CDNs.
   * style.css provides site-specific customizations.
-
-The .project file provides an Eclipse project definition.
   
 The page itself provides a responsive navbar with a small amount of body text.
 
